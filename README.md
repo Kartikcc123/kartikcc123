@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kartik Agarwal</h1>
 
-<h3 align="center">🚀 Full Stack AI Developer | MERN | Python | MLOps</h3>
+<h3 align="center">🚀 Full Stack AI Developer | MERN | Python | GCP</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 - 🎓 B.Tech Textile Student (India)
 - 💻 Passionate about Web Development & AI
 - 🚀 Building scalable MERN + AI applications
-- 🌱 Currently learning MLOps & Cloud (GCP)
+- 🌱 Currently learning Cloud (GCP)
 - 🤝 Open for Freelance & Internship Opportunities
 
 ---
@@ -37,9 +37,9 @@
 ---
 
 ### 📫 Connect with Me
-- 💼 LinkedIn: (add link)
-- 🌐 Portfolio: (add link)
-- 📧 Email: (add email)
+- 💼 LinkedIn: https://www.linkedin.com/in/kartik-agarwal-157289388/
+- 🌐 Portfolio: https://www.kartikagarwal.in.net/
+- 📧 Email: kartikagarwal4256@gmail.com
 
 ---
 
